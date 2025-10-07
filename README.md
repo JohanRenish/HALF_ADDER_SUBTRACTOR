@@ -59,3 +59,11 @@ Developed by: RegisterNumber:*/
 **Output/TIMING Waveform**
 
 **Result:**
+Logic Diagram 1
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/b4698b91-63a6-47aa-a211-4405ae3c8d79" />
+Clock Pulse 1
+<img width="1920" height="1080" alt="_1" src="https://github.com/user-attachments/assets/4c980c5c-320a-4073-a326-200aa1b2f147" />
+Logic Diagram 2
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/5caf9508-b2ac-4280-acf4-37b344ffe3c5" />
+Clock Pulse 2
+<img width="1920" height="1080" alt="_2" src="https://github.com/user-attachments/assets/8e0c4855-d59a-4724-b2eb-c9762359812e" />
